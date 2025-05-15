@@ -1,9 +1,8 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Hello%20I'm%20Gyeong%20Geun%20🤗&fontSize=30&desc=A%20frontend%20developer%20who%20bridges%20the%20gap%20between%20clients%20and%20user%20experience&descSize=20&descAlign=bottom&descAlignY=70)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Hello%20I'm%20Gyeong%20Geun%20🤗&fontSize=30&textAlignY=35&desc=A%20frontend%20developer%20who%20bridges%20the%20gap%20between%20clients%20and%20user%20experience&descSize=20&descAlign=bottom&descAlignY=70)
 
-  <!--![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Thanks%20for%20visiting%20my%20GitHub%20Page%20🤗&fontSize=30)-->
   
 </div>
 <div>

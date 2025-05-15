@@ -1,7 +1,7 @@
-<div>
+<div align="center">
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Hello%20I'm%20Gyeong%20Geun%20🤗&fontSize=30&textAlignY=35&desc=A%20frontend%20developer%20who%20bridges%20the%20gap%20between%20clients%20and%20user%20experience&descSize=20&descAlign=bottom&descAlignY=70)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hello%20I'm%20Gyeong%20Geun%20🤗&fontSize=40&desc=A%20frontend%20developer%20who%20bridges%20the%20gap%20between%20clients%20and%20user%20experience.&descSize=20&descAlign=center&descAlignY=80" />
 
   
 </div>

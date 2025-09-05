@@ -52,6 +52,7 @@
   <!--<img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=flat-square&logo=Python&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <br/>
+  ![Gyeonggeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennywestt&show_icons=true&theme=radical)
 </div>
 
 

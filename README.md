@@ -3,7 +3,8 @@
   <!--Header-->
  <!--<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=안녕하세요%20프론트엔드%20개발자%20이경근%20입니다.%20🤗&fontSize=40&textAlign=center&textAlignY=10&desc=어제와%20다른%20나를%20꿈꾸고%20변화하는%20세상에서%20끊임없이%20도전합니다.%20&descSize=20&descAlign=center&descAlignY=80" />-->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1f1f1f&height=120&section=header&text=Frontend%20Developer%20이경근%20&fontSize=40&textAlign=center&textAlignY=10&desc=Dreaming%20of%20different%20me%20from%20yesterday%20&descSize=20&descAlign=center&descAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3d3d3d&height=100&section=header&text=Frontend%20Developer%20이경근%20&fontSize=40&textAlign=center&textAlignY=10&desc=Dreaming%20of%20different%20me%20from%20yesterday%20&descSize=20&descAlign=center&descAlignY=80" />
+
   
 </div>
 <div>

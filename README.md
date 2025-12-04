@@ -3,7 +3,7 @@
   <!--Header-->
  <!--<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=안녕하세요%20프론트엔드%20개발자%20이경근%20입니다.%20🤗&fontSize=40&textAlign=center&textAlignY=10&desc=어제와%20다른%20나를%20꿈꾸고%20변화하는%20세상에서%20끊임없이%20도전합니다.%20&descSize=20&descAlign=center&descAlignY=80" />-->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=3d3d3d&height=120&section=header&text=Frontend%20Developer%20이경근%20&fontSize=40&textAlign=center&textAlignY=25&desc=Dreaming%20of%20different%20me%20from%20yesterday%20&descSize=18&descAlign=center&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3d3d3d&height=120&section=header&text=Frontend%20Developer%20&fontSize=40&textAlign=center&textAlignY=25&desc=Dreaming%20of%20different%20me%20from%20yesterday%20&descSize=18&descAlign=center&descAlignY=75" />
   
 </div>
 <div>
@@ -44,14 +44,14 @@
   <!--<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>-->
   <br/>
 
-  ### Tools
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
+  ### Etc
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <br/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/Python%20IDLE-3776AB?style=flat-square&logo=Python&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <br/>
 </div>
 
